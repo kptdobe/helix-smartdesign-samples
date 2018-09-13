@@ -23,6 +23,11 @@ section {
     margin: 30px;
 }
 
+section.hero {
+    border: 1px solid red;
+    padding: 10px;
+}
+
 section.gallery p {
     display: flex;
 }
